@@ -27,23 +27,31 @@
     },
     "terminal.integrated.fontSize": 16,
     "window.autoDetectColorScheme": true,
-    "workbench.editor.showTabs": "none",
     "workbench.iconTheme": "file-icons-colourless",
     "workbench.startupEditor": "none",
     "zenMode.showTabs": "none",
-    "window.titleBarStyle": "native",
     "custom-ui-style.electron": {
-        "frame": false,
-        "roundedCorners": true, // For MacOS
+        "frame": false
     },
     "custom-ui-style.stylesheet": {
+        // Disable click on single tabs because it pops up the command palette
+        ".monaco-workbench .part.editor>.content .editor-group-container>.title>.label-container": {
+            "pointer-events": "none"
+        }
     },
     "editor.tabCompletion": "on",
     "editor.suggestSelection": "recentlyUsed",
     "editor.acceptSuggestionOnEnter": "off",
     "workbench.activityBar.location": "bottom",
-    "window.customTitleBarVisibility": "never",
     "workbench.sideBar.location": "right",
     "git.autofetch": true,
     "editor.formatOnSave": true,
+    "terminal.integrated.fontLigatures.enabled": true,
+    "editor.fontLigatures": true,
+    "window.titleBarStyle": "native",
+    "workbench.layoutControl.enabled": false,
+    "workbench.navigationControl.enabled": false,
+    "window.commandCenter": false,
+    "window.customTitleBarVisibility": "never",
+    "workbench.editor.showTabs": "single",
 }
