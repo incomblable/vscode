@@ -1,9 +1,9 @@
-disabled:
-  - id: asvetliakov.vscode-neovim
-    uuid: caf8995c-5426-4bf7-9d01-f7968ebd49bb
+disabled: []
 enabled:
   - id: AdaCore.ada
     uuid: 8a300a45-fe7b-48d0-acda-ac044226abe9
+  - id: asvetliakov.vscode-neovim
+    uuid: caf8995c-5426-4bf7-9d01-f7968ebd49bb
   - id: EditorConfig.EditorConfig
     uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
   - id: file-icons.file-icons
