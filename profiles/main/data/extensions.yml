@@ -1,0 +1,26 @@
+disabled:
+  - id: asvetliakov.vscode-neovim
+    uuid: caf8995c-5426-4bf7-9d01-f7968ebd49bb
+enabled:
+  - id: AdaCore.ada
+    uuid: 8a300a45-fe7b-48d0-acda-ac044226abe9
+  - id: EditorConfig.EditorConfig
+    uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
+  - id: file-icons.file-icons
+    uuid: 43335a8d-5929-408b-874a-65f08362642c
+  - id: golang.go
+    uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
+  - id: jnoortheen.nix-ide
+    uuid: 0ffebccd-4265-4f2d-a855-db1adcf278c7
+  - id: marvhen.reflow-markdown
+    uuid: 13c9e1dd-6632-4cf9-940e-c1a25a51a85b
+  - id: mkhl.direnv
+    uuid: e365e970-aeef-4dcd-8e4a-17306a27ab62
+  - id: mkhl.shfmt
+    uuid: 0c2ca002-79c2-4b79-95a5-61a5b188a4f7
+  - id: MS-SarifVSCode.sarif-viewer
+    uuid: 2c00a92a-5b2e-4d21-ae97-4e9a97fb8c8f
+  - id: subframe7536.custom-ui-style
+    uuid: 5d260afc-8d75-4731-a881-66951c630816
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
