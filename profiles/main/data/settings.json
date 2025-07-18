@@ -52,6 +52,6 @@
     "workbench.layoutControl.enabled": false,
     "workbench.navigationControl.enabled": false,
     "window.commandCenter": false,
-    "window.customTitleBarVisibility": "never",
     "workbench.editor.showTabs": "single",
+    "window.customTitleBarVisibility": "never",
 }
