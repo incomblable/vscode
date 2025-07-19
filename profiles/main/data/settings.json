@@ -1,8 +1,8 @@
 {
     "breadcrumbs.enabled": false,
     "debug.console.fontSize": 16,
-    "editor.fontFamily": "'Iosevka SS15', Menlo, Monaco, 'Courier New', monospace",
-    "editor.fontSize": 16,
+    "editor.fontFamily": "'IBM Plex Mono', 'Iosevka SS15', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 14,
     "editor.lineNumbers": "off",
     "editor.minimap.enabled": false,
     "editor.scrollbar.vertical": "hidden",
@@ -25,7 +25,7 @@
     "extensions.experimental.affinity": {
         "asvetliakov.vscode-neovim": 1
     },
-    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontSize": 14,
     "window.autoDetectColorScheme": true,
     "workbench.iconTheme": "file-icons-colourless",
     "workbench.startupEditor": "none",
@@ -54,4 +54,17 @@
     "window.commandCenter": false,
     "workbench.editor.showTabs": "single",
     "window.customTitleBarVisibility": "never",
+    "gitlens.views.scm.grouped.views": {
+        "commits": true,
+        "branches": true,
+        "remotes": true,
+        "stashes": true,
+        "tags": true,
+        "worktrees": true,
+        "contributors": true,
+        "fileHistory": false,
+        "repositories": true,
+        "searchAndCompare": false,
+        "launchpad": true
+    },
 }
